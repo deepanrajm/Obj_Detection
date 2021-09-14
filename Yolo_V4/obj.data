@@ -1,5 +1,5 @@
 classes= 3 
-train  = datat/rain.txt  
+train  = datat/train.txt  
 valid  = data/test.txt  
 names = data/obj.names  
 backup = /mydrive/YOLOv4_weight/backup/
