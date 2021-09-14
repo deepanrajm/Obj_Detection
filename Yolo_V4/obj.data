@@ -2,4 +2,4 @@ classes= 3
 train  = /content/darknet/data/train.txt
 valid  = /content/darknet/data/test.txt  
 names = /content/darknet/data/obj.names  
-backup = /mydrive/YOLOv4_weight/backup/
+backup = /mydrive/YOLOv4_weight/backup
